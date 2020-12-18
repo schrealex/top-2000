@@ -1,0 +1,179 @@
+{
+  "songs": [
+    {
+      "artist": "Danny Vera",
+      "songTitle": "Rollercoaster",
+      "image": "danny_vera-rollercoaster.jpg"
+    },
+    {
+      "artist": "Danny Vera",
+      "songTitle": "Distant Rumble",
+      "image": "danny_vera-distant_rumble.jpg"
+    },
+    {
+      "artist": "The Cult",
+      "songTitle": "She Sells Sanctuary",
+      "image": "the_cult-she_sells_sanctuary.jpg"
+    },
+    {
+      "artist": "Foo Fighters",
+      "songTitle": "Everlong",
+      "image": "foo_fighters-everlong.jpg"
+    },
+    {
+      "artist": "Foo Fighters",
+      "songTitle": "Times Like These",
+      "image": "foo_fighters-times_like_these.jpg"
+    },
+    {
+      "artist": "Foo Fighters",
+      "songTitle": "These Days",
+      "image": "foo_fighters-these_days.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "I'm Looking Through You",
+      "image": "the_beatles-im_looking_through_you.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "Blackbird",
+      "image": "the_beatles-blackbird.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "While My Guitar Gently Weeps",
+      "image": "the_beatles-while_my_guitar_gently_weeps.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "Here Comes The Sun",
+      "image": "the_beatles-here_comes_the_sun.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "Dear Prudence",
+      "image": "the_beatles-dear_prudence.jpg"
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "songTitle": "Mr. Blue Sky",
+      "image": "electric_light_orchestra-mr._blue_sky.jpg"
+    },
+    {
+      "artist": "Cream",
+      "songTitle": "White Room",
+      "image": "cream-white_room.jpg"
+    },
+    {
+      "artist": "Tom Petty",
+      "songTitle": "Runnin' Down A Dream",
+      "image": "tom_petty-runnin'_down_a_dream.jpg"
+    },
+    {
+      "artist": "Kansas",
+      "songTitle": "Carry On Wayward Son",
+      "image": "kansas-carry_on_wayward_son.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "Got To Get You Into My Life",
+      "image": "the_beatles-got_to_get_you_into_my_life.jpg"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "songTitle": "Fortunate Son",
+      "image": "creedence_clearwater_revival-fortunate_son.jpg"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "songTitle": "Long As I Can See The Light",
+      "image": "creedence_clearwater_revival-long_as_i_can_see_the_light.jpg"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "songTitle": "Bad Moon Rising",
+      "image": "creedence_clearwater_revival-bad_moon_rising.jpg"
+    },
+    {
+      "artist": "Soundgarden",
+      "songTitle": "Black Hole Sun",
+      "image": "soundgarden-black_hole_sun.jpg"
+    },
+    {
+      "artist": "Dire Straits",
+      "songTitle": "Sultans Of Swing",
+      "image": "dire_straits-sultans_of_swing.jpg"
+    },
+    {
+      "artist": "Blind Melon",
+      "songTitle": "No Rain",
+      "image": "blind_melon-no_rain.jpg"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "songTitle": "Stairway To Heaven",
+      "image": "led_zeppelin-stairway_to_heaven.jpg"
+    },
+    {
+      "artist": "Steely Dan",
+      "songTitle": "Reelin' In The Years",
+      "image": "steely_dan-reelin'_in_the_years.jpg"
+    },
+    {
+      "artist": "Pearl Jam",
+      "songTitle": "Even Flow",
+      "image": "pearl_jam-evenflow.jpg"
+    },
+    {
+      "artist": "Kings of Leon",
+      "songTitle": "Notion",
+      "image": "kings_of_leon-notion.jpg"
+    },
+    {
+      "artist": "Living Colour",
+      "songTitle": "Solace Of You",
+      "image": "living_colour-solace_of_you.jpg"
+    },
+    {
+      "artist": "Living Colour",
+      "songTitle": "Love Rears Its Ugly Head",
+      "image": "living_colour-love_rears_its_ugly_head.jpg"
+    },
+    {
+      "artist": "Muse",
+      "songTitle": "Plug In Baby",
+      "image": "muse-plug_in_baby.jpg"
+    },
+    {
+      "artist": "Free",
+      "songTitle": "All Right Now",
+      "image": "free-all_right_now.jpg"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "songTitle": "Under The Bridge",
+      "image": "red_hot_chili_peppers-under_the_bridge.jpg"
+    },
+    {
+      "artist": "U2",
+      "songTitle": "With Or Without You",
+      "image": "u2-with_or_without-you.jpg"
+    },
+    {
+      "artist": "Elvis Presley",
+      "songTitle": "Suspicious Minds",
+      "image": "elvis_presley-suspicious_minds.jpg"
+    },
+    {
+      "artist": "Jimi Hendrix Experience",
+      "songTitle": "The Wind Cries Mary",
+      "image": "jimi_hendrix_experience-the_wind_cries_mary.jpg"
+    },
+    {
+      "artist": "Jimi Hendrix Experience",
+      "songTitle": "Hey Joe",
+      "image": "jimi_hendrix_experience-hey_joe.jpg"
+    }
+  ]
+}

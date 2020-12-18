@@ -1,0 +1,179 @@
+{
+  "songs": [
+    {
+      "artist": "Danny Vera",
+      "songTitle": "Rollercoaster",
+      "image": "danny_vera-rollercoaster.jpg"
+    },
+    {
+      "artist": "The Cult",
+      "songTitle": "She Sells Sanctuary",
+      "image": "the_cult-she_sells_sanctuary.jpg"
+    },
+    {
+      "artist": "Foo Fighters",
+      "songTitle": "Times Like These",
+      "image": "foo_fighters-times_like_these.jpg"
+    },
+    {
+      "artist": "Foo Fighters",
+      "songTitle": "My Hero (Live)",
+      "image": "foo_fighters-my_hero_live.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "Day Tripper",
+      "image": "the_beatles-day_tripper.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "Blackbird",
+      "image": "the_beatles-blackbird.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "While My Guitar Gently Weeps",
+      "image": "the_beatles-while_my_guitar_gently_weeps.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "Here Comes The Sun",
+      "image": "the_beatles-here_comes_the_sun.jpg"
+    },
+    {
+      "artist": "The Beatles",
+      "songTitle": "Something",
+      "image": "the_beatles-something.jpg"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "songTitle": "Gimme Shelter",
+      "image": "the_rolling_stones-gimme_shelter.jpg"
+    },
+    {
+      "artist": "Guns N' Roses",
+      "songTitle": "Sweet Child O' Mine",
+      "image": "guns_n_roses-sweet_child_o_mine.jpg"
+    },
+    {
+      "artist": "Kings Of Leon",
+      "songTitle": "Waste A Moment",
+      "image": "kings_of_leon-waste_a_moment.jpg"
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "songTitle": "Mr. Blue Sky",
+      "image": "electric_light_orchestra-mr._blue_sky.jpg"
+    },
+    {
+      "artist": "Cream",
+      "songTitle": "White Room",
+      "image": "cream-white_room.jpg"
+    },
+    {
+      "artist": "Cream & Eric Clapton",
+      "songTitle": "Crossroads",
+      "image": "cream_and_eric_clapton-crossroads.jpg"
+    },
+    {
+      "artist": "Tom Petty",
+      "songTitle": "Runnin' Down A Dream",
+      "image": "tom_petty-runnin'_down_a_dream.jpg"
+    },
+    {
+      "artist": "Billie Eilish",
+      "songTitle": "Everything I Wanted",
+      "image": "billie_eilish-everything_i_wanted.jpg"
+    },
+    {
+      "artist": "Kansas",
+      "songTitle": "Carry On Wayward Son",
+      "image": "kansas-carry_on_wayward_son.jpg"
+    },
+    {
+      "artist": "Kansas",
+      "songTitle": "Dust In The Wind",
+      "image": "kansas-dust_in_the_wind.jpg"
+    },
+    {
+      "artist": "Snow Patrol",
+      "songTitle": "Shut Your Eyes",
+      "image": "snow_patrol-shut_your-eyes.jpg"
+    },
+    {
+      "artist": "Racoon",
+      "songTitle": "Love You More",
+      "image": "racoon-love_you_more.jpg"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "songTitle": "Fortunate Son",
+      "image": "creedence_clearwater_revival-fortunate_son.jpg"
+    },
+    {
+      "artist": "Creedence Clearwater Revival",
+      "songTitle": "Long As I Can See The Light",
+      "image": "creedence_clearwater_revival-long_as_i_can_see_the_light.jpg"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "songTitle": "Dreams",
+      "image": "fleetwood_mac-dreams.jpg"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "songTitle": "Stairway To Heaven",
+      "image": "led_zeppelin-stairway_to_heaven.jpg"
+    },
+    {
+      "artist": "Pearl Jam",
+      "songTitle": "Alive",
+      "image": "pearl_jam-alive.jpg"
+    },
+    {
+      "artist": "Living Colour",
+      "songTitle": "Solace Of You",
+      "image": "living_colour-solace_of_you.jpg"
+    },
+    {
+      "artist": "Muse",
+      "songTitle": "Plug In Baby",
+      "image": "muse-plug_in_baby.jpg"
+    },
+    {
+      "artist": "Free",
+      "songTitle": "All Right Now",
+      "image": "free-all_right_now.jpg"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "songTitle": "Under The Bridge",
+      "image": "red_hot_chili_peppers-under_the_bridge.jpg"
+    },
+    {
+      "artist": "U2",
+      "songTitle": "With Or Without You",
+      "image": "u2-with_or_without-you.jpg"
+    },
+    {
+      "artist": "Queens Of The Stone Age",
+      "songTitle": "Make It Wit Chu",
+      "image": "queens_of_the_stone_age-make_it_wit_chu.jpg"
+    },
+    {
+      "artist": "Mavericks",
+      "songTitle": "Dance The Night Away",
+      "image": "mavericks-dance_the_night_away.jpg"
+    },
+    {
+      "artist": "Jimi Hendrix Experience",
+      "songTitle": "The Wind Cries Mary",
+      "image": "jimi_hendrix_experience-the_wind_cries_mary.jpg"
+    },
+    {
+      "artist": "Nirvana",
+      "songTitle": "Polly",
+      "image": "nirvana-polly.jpg"
+    }
+  ]
+}
