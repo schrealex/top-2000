@@ -27,7 +27,7 @@
     color: #222222;
 
     display: flex;
-    font-size: 1.3em;
+    font-size: 1.2em;
     flex-direction: column;
     justify-content: center;
     align-items: center;
